@@ -2,7 +2,7 @@
 University Project for core course Digital Communications
 
 MATLAB codes for implementing:
-* PCM Coding with Non-Uniform Quantization
+* PCM Coding with Non-Uniform Quantization (Lloyd Max)
 * Adaptive Delta Modulation
 
 and using them on 2 sources a) an AR(1) procedure and b) an image to measure entropy and SQNR
